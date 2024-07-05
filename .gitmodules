@@ -1,0 +1,15 @@
+[submodule "toast_runtime"]
+	path = toast_runtime
+	url = git@github.com:mbailleu/toast_runtime.git
+[submodule "toast_erpc"]
+	path = toast_erpc
+	url = git@github.com:mbailleu/toast_erpc.git
+[submodule "toast-protection"]
+	path = toast-protection
+	url = git@github.com:mbailleu/toast-protection.git
+[submodule "mpk-toast-protection"]
+	path = mpk-toast-protection
+	url = git@github.com:dimstav23/mpk-toast-protection.git
+[submodule "toast-llvm"]
+	path = toast-llvm
+	url = git@github.com:mbailleu/toast-llvm.git
